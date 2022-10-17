@@ -1,13 +1,12 @@
-.container-small-card{
-    /* border: 1px solid wheat; */
-    width: 700px;  
+.container-small-card{        
+    width: 100%;        
 }
 .container-small-card-content{
     display: flex;
-    flex-direction: row;
+    flex-direction: row;    
 }    
 .small-card-thumb > img{
-    min-width: 200px;
+    max-width: 200px;
     width: 200px;
     margin-right: 20px;
 }
@@ -19,6 +18,5 @@
 }
 
 .small-card-separator{
-    margin: 10px 0;
-    
+    margin: 10px 0 10px 0;    
 }

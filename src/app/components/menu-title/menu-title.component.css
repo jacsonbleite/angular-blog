@@ -1,7 +1,8 @@
 .menu-title-container{
+    max-width: 100%;
     color:white;
 }
-.menu-title-container h1{
+.menu-title-container > h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 15px 0;
     font-weight: bolder;

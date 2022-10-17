@@ -1,0 +1,38 @@
+@media screen and (max-device-width:768px) {
+    .container-articles-bg{
+        width: 100%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .container-articles {       
+        width: 100%; 
+        margin-top: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+    }
+    .articles-others{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: blanchedalmond;
+    }    
+    
+    .articles-main{
+        width: 100%;
+        /* margin-left: 25px; */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}

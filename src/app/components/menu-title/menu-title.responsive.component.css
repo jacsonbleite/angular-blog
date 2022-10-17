@@ -1,0 +1,8 @@
+@media screen and (max-device-width:768px){
+    .menu-title-container{
+        width: 100%;
+    }
+    .menu-title-container > h1{
+        font-size: 10px;
+    }
+}

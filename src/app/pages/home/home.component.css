@@ -1,11 +1,35 @@
-.container-articles{
-    margin-top: 30px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
-header{ 
+header{    
+    width: 100%;    
+    margin-left: 0;
+    margin-right: 0;
+    box-sizing: border-box;
     margin-top: 17px;   
     display: flex;
     justify-content: center;
+    align-items: center;
+}
+.container-articles-bg{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container-articles{
+    max-width: 1280px;
+    width: 100%;
+    height: auto;   
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;  
+    align-items: center;     
+}
+.articles-main{
+    width: 60%; /*676,8px*/
+    height: auto;          
+}
+.articles-others{
+    width: 38%; /*428,64px*/
 }
