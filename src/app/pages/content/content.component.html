@@ -1,17 +1,20 @@
 <article>
     <div class="container-content-bg">
         <div class="container-content">
-            <div class="content-cover">
-                <img src="{{photoCover}}" alt="">
+            <div class="content-cover" >
+                <img src="{{photoCover}}" alt="{{contentTitle}}">
             </div>
             <div class="content-title">
                 <header>
                     <h1>{{contentTitle}}</h1>
                 </header>
-            </div>            
+            </div>
             <div class="content-description">
                 <p><a [routerLink]="['']">&lAarr; Voltar</a></p>
-                {{contentDescription}}
+                <p>
+                    {{contentDescription}}
+                </p>
+                
             </div>
         </div>
     </div>

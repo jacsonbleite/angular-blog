@@ -37,4 +37,8 @@
     line-height: 1.5;
     color: rgb(204, 199, 199);
     margin-bottom: 15px;
+    
+}
+.content-description > p{
+    white-space: break-spaces
 }

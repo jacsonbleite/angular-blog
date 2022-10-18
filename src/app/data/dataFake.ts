@@ -3,118 +3,89 @@ export const dataFake = [
         "id": 1,
         "photo": "https://static.todamateria.com.br/upload/le/nd/lenda-do-boto-og.jpg",
         "title": "Lenda do Boto-cor-de-rosa",
-        "description": "A Lenda do Boto cor-de-rosa, ou simplesmente a Lenda do Boto, é uma lenda de origem indígena que faz\
-        parte do folclore brasileiro. Ela surge na região amazônica, no Norte do País.<br>\
-        Reza a lenda que o boto-cor-de-rosa, animal inteligente e semelhante ao golfinho que vive nas águas\
-        amazônicas, se transforma num jovem belo e elegante nas noites de lua cheia.\n\
-        Normalmente ele aparece nas festividades de junho, nas comemorações dos Santos Populares (Santo\
-        Antônio, São João e São Pedro), as chamadas Festas Juninas.\n\
-        Vem vestido de branco e com um grande chapéu a fim de esconder suas narinas, pois sua transformação\
-        não ocorre totalmente.\n\
-        Dono de um estilo comunicativo, galã e conquistador, o boto escolhe a moça solteira mais bonita da\
-        festa e a leva para o fundo do rio. Lá a engravida e depois a abandona.\n\
-        Na manhã seguinte ele se transforma em boto novamente. Por esse motivo, a Lenda do Boto é utilizada\
-        muitas vezes para justificar uma gravidez fora do casamento.\n\
-        Ademais, costuma-se dizer que “a criança é filho do boto” quando é filho de pai desconhecido.\n\n\
-        Curiosidades sobre a lenda do boto-cor-de-rosa\n\
-        Uma maneira de confirmar se os homens presentes na festa não são o boto é retirando os seus chapéus a\
-        fim de atestarem as identidades.\n\
-        Na cultura popular amazônica acredita-se que a pessoa que comer a carne de boto ficará louca e\
-        enfeitiçada.\n\
-        Com direção de Walter Lima Jr., a Lenda do Boto inspirou o filme “Ele, o Boto” (1987).\n\
-        Fonte: <a href=\"https://www.todamateria.com.br/lenda-do-boto/\" target=\"_blank\"> Toda Matéria </a>\n",
+        "description": `<b>A Lenda do Boto cor-de-rosa</b>, ou simplesmente a Lenda do Boto, é uma lenda de origem indígena que faz
+        parte do folclore brasileiro. Ela surge na região amazônica, no Norte do País.
+        Reza a lenda que o boto-cor-de-rosa, animal inteligente e semelhante ao golfinho que vive nas águas amazônicas, se transforma num jovem belo e elegante nas noites de lua cheia.\n
+        Normalmente ele aparece nas festividades de junho, nas comemorações dos Santos Populares (Santo Antônio, São João e São Pedro), as chamadas Festas Juninas.
+        Vem vestido de branco e com um grande chapéu a fim de esconder suas narinas, pois sua transformação não ocorre totalmente.
+        Dono de um estilo comunicativo, galã e conquistador, o boto escolhe a moça solteira mais bonita da festa e a leva para o fundo do rio. Lá a engravida e depois a abandona.
+        Na manhã seguinte ele se transforma em boto novamente. Por esse motivo, a Lenda do Boto é utilizada muitas vezes para justificar uma gravidez fora do casamento.
+        Ademais, costuma-se dizer que “a criança é filho do boto” quando é filho de pai desconhecido.
+        Curiosidades sobre a lenda do boto-cor-de-rosa:
+        Uma maneira de confirmar se os homens presentes na festa não são o boto é retirando os seus chapéus a fim de atestarem as identidades.
+        Na cultura popular amazônica acredita-se que a pessoa que comer a carne de boto ficará louca e enfeitiçada.
+        Com direção de Walter Lima Jr., a Lenda do Boto inspirou o filme “Ele, o Boto” (1987).
+        Fonte: Toda Matéria`,
         "slug": "lenda-do-boto-cor-de-rosa"
     },
     {
         "id": 2,
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgG8GwdqB2oDzr0OxyZLNZ2V0ACB9HbXoatmurM-oiU8TPMMxMtndXJBr4fPqNvhCf3VA&usqp=CAU",
         "title": "Lenda da Cobra Grande",
-        "description": `A lenda da cobra grande, também chamada de "lenda da cobra grande da Amazônia" é muito popular nas regiões norte e nordeste do país.\n
-        Esse personagem do folclore brasileiro, também conhecido pelos nomes Cobra Honorato, Norato ou Boiuna, é uma cobra gigantesca cujo habitat é as profundezas dos rios ou dos lagos. Seus olhos são luminosos e aterrorizam as pessoas que a encontram.\n\n
-        Versões da Lenda\n
-        Dependendo da localidade (Amazônia, Pará, Tocantins, Roraima, etc.), existem diversas versões dessa lenda, as quais foram passadas de geração em geração.\n
-        A estória mais comum por trás dessa personagem ameaçadora é da índia de uma tribo amazônica que ficou grávida da cobra Boiuna.\n
-        Ela deu à luz a duas crianças gêmeas que nasceram com aparência de cobras. O menino recebeu o nome de Honorato (ou Norato); e a menina, Maria Caninana.\n
-        Assustada com a aparência de sua prole, ela decidiu lançar seus "filhos-cobras" no rio.\n
-        A diferença entre a personalidade dos irmãos era notória. Ou seja, enquanto Honorato tinha um coração bom e sempre visitava sua mãe, Maria, por sua vez, guardava rancor e nunca foi visitá-la.n
-        Por conta de seu temperamento, Maria sempre estava assustando a população e os animais, ou mesmo naufragando embarcações. Seu irmão, que era o contrário, não gostava nada de suas ações.\n
-        Assim, cansado e triste com os atos de sua irmã, ele resolve matá-la para pôr fim ao sofrimento de muitas pessoas.\n
-        Algumas versões relatam que em noites de lua cheia Honorato adquiria a forma humana e podia caminhar pela terra. No entanto, quando passava a lua cheia ele voltava para sua vida nos rios.\n
-        Acreditava-se que para quebrar o encanto, uma pessoa deveria ferir a cobra na cabeça, além de colocar leite em sua enorme boca. A questão é que com todos que ele falava, não tinham coragem pois se assustavam com a criatura no momento que ele se transformava.\n
-        Sem dúvida, ninguém queria enfrentar a cobra grande. Até que um dia, um soldado muito corajoso o libertou da maldição. Assim, Honorato pode viver na terra como uma pessoa comum e perto de sua família.\n
-        Em outra versão, uma mulher muito má, pertencente a uma tribo amazônica, costumava matar e devorar crianças. Indignados, os habitantes da tribo resolveram jogá-la no rio.\n
-        Entretanto, ela não morreu pois foi salva por uma espécie de demônio chamado de Anhangá. Por fim, eles se casam e tem um filho que foi transformado em cobra por seu pai, para que assim, ele pudesse viver com seus pais no rio.\n
-        Com o tempo ele foi crescendo até atingir um tamanho descomunal, tanto que os rios já não tinham mais peixes. Com isso, a cobra grande começou a aterrorizar e devorar pessoas das tribos que viviam próximas dos rios.\n
-        Quando sua mãe morreu, a cobra ficou tão enfurecida que resolveu viver num estágio de letargia embaixo das cidades grandes.\n
-        Noutra versão, quando morre sua mãe, a cobra grande fica triste e furiosa que seu olho torna-se tão brilhante que chega a soltar flechas de fogo. Essas flechas eram atiradas no céu, e, portanto, acredita-se que ela atuava nas tempestades.\n\n
-        Origem da Lenda\n
-        A origem da cobra grande é indígena e provavelmente surgiu na região amazônica. Hoje é uma das lendas mais conhecidas entre os habitantes que vivem próximos dos rios, os chamados ribeirinhos.\n
-        Acredita-se que a cobra grande foi responsável por criar parte dos rios. Isso porque ao se rastejar ela deixava sulcos gigantescos na terra, que com o tempo, se transformaram em rios caudalosos, como o Amazonas.\n
-        A verdade é que na região existem muitas cobras imensas que medem até 10 metros de comprimento e chegam a pesar mais de 200 Kg. Destaca-se a cobra sucuri, também chamada de anaconda, boiaçu e boiuna.\n
+        "description": `A lenda da cobra grande, também chamada de "lenda da cobra grande da Amazônia" é muito popular nas regiões norte e nordeste do país.
+        Esse personagem do folclore brasileiro, também conhecido pelos nomes Cobra Honorato, Norato ou Boiuna, é uma cobra gigantesca cujo habitat é as profundezas dos rios ou dos lagos. Seus olhos são luminosos e aterrorizam as pessoas que a encontram
+        Versões da Lenda
+        Dependendo da localidade (Amazônia, Pará, Tocantins, Roraima, etc.), existem diversas versões dessa lenda, as quais foram passadas de geração em geração.
+        A estória mais comum por trás dessa personagem ameaçadora é da índia de uma tribo amazônica que ficou grávida da cobra Boiuna.
+        Ela deu à luz a duas crianças gêmeas que nasceram com aparência de cobras. O menino recebeu o nome de Honorato (ou Norato); e a menina, Maria Caninana.
+        Assustada com a aparência de sua prole, ela decidiu lançar seus "filhos-cobras" no rio.
+        A diferença entre a personalidade dos irmãos era notória. Ou seja, enquanto Honorato tinha um coração bom e sempre visitava sua mãe, Maria, por sua vez, guardava rancor e nunca foi visitá-la.
+        Por conta de seu temperamento, Maria sempre estava assustando a população e os animais, ou mesmo naufragando embarcações. Seu irmão, que era o contrário, não gostava nada de suas ações.
+        Assim, cansado e triste com os atos de sua irmã, ele resolve matá-la para pôr fim ao sofrimento de muitas pessoas.
+        Algumas versões relatam que em noites de lua cheia Honorato adquiria a forma humana e podia caminhar pela terra. No entanto, quando passava a lua cheia ele voltava para sua vida nos rios.
+        Acreditava-se que para quebrar o encanto, uma pessoa deveria ferir a cobra na cabeça, além de colocar leite em sua enorme boca. A questão é que com todos que ele falava, não tinham coragem pois se assustavam com a criatura no momento que ele se transformava.
+        Sem dúvida, ninguém queria enfrentar a cobra grande. Até que um dia, um soldado muito corajoso o libertou da maldição. Assim, Honorato pode viver na terra como uma pessoa comum e perto de sua família.
+        Em outra versão, uma mulher muito má, pertencente a uma tribo amazônica, costumava matar e devorar crianças. Indignados, os habitantes da tribo resolveram jogá-la no rio.
+        Entretanto, ela não morreu pois foi salva por uma espécie de demônio chamado de Anhangá. Por fim, eles se casam e tem um filho que foi transformado em cobra por seu pai, para que assim, ele pudesse viver com seus pais no rio.
+        Com o tempo ele foi crescendo até atingir um tamanho descomunal, tanto que os rios já não tinham mais peixes. Com isso, a cobra grande começou a aterrorizar e devorar pessoas das tribos que viviam próximas dos rios.
+        Quando sua mãe morreu, a cobra ficou tão enfurecida que resolveu viver num estágio de letargia embaixo das cidades grandes.
+        Noutra versão, quando morre sua mãe, a cobra grande fica triste e furiosa que seu olho torna-se tão brilhante que chega a soltar flechas de fogo. Essas flechas eram atiradas no céu, e, portanto, acredita-se que ela atuava nas tempestades.
+        Origem da Lenda
+        A origem da cobra grande é indígena e provavelmente surgiu na região amazônica. Hoje é uma das lendas mais conhecidas entre os habitantes que vivem próximos dos rios, os chamados ribeirinhos.
+        Acredita-se que a cobra grande foi responsável por criar parte dos rios. Isso porque ao se rastejar ela deixava sulcos gigantescos na terra, que com o tempo, se transformaram em rios caudalosos, como o Amazonas.
+        A verdade é que na região existem muitas cobras imensas que medem até 10 metros de comprimento e chegam a pesar mais de 200 Kg. Destaca-se a cobra sucuri, também chamada de anaconda, boiaçu e boiuna.
 
-        Fonte: <a href="https://www.todamateria.com.br/lenda-da-cobra-grande/" target="_blank"> Toda Matéria </a>\n`,
+        Fonte: Toda Matéria`,
         "slug": "lenda-da-cobra-grande"
     },
     {
         "id": 3,
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADlsAWSx6tzhCyJM4QoBHXca1HrdPcBX1lA&usqp=CAU",
         "title": "Lenda do Curupira",
-        "description": `O Curupira, conhecido como “demônio da floresta”, assobia e utiliza falsos sinais.\n
-    Ele reúne muitas histórias que envolvem mistérios inexplicáveis, por exemplo, o desaparecimento de caçadores, bem como o esquecimento dos caminhos\n
-    Dizem que com seus pés virados para trás, o Curupira engana e confunde as pessoas que danificam seu habitat, por exemplo, os caçadores, madeireiros, lenhadores, etc.\n
-    Esse personagem folclórico, que adora fumar e beber pinga, não gosta de locais muito habitados e, por esse motivo, prefere viver nas florestas.\n
-    Uma outra característica e, talvez o ponto fraco do Curupira, é a sua curiosidade. Assim, a lenda adverte que para escapar de suas armadilhas, a pessoa deve fazer um novelo com cipó e esconder bem a ponta.\n
-    Muito curioso, ele fica entretido com o novelo e a pessoa consegue fugir. Até os dias atuais, para que não sejam incomodados pelo Curupira, muitos caçadores e lenhadores costumam oferecer-lhe pinga e fumo quando chegam à floresta.\n\n
-    Qual a origem da lenda do Curupira?\n
-    Há controvérsias sobre a data de criação da lenda do Curupira. Contudo, o padre jesuíta espanhol José de Anchieta (1534-1597) escreveu sobre o personagem no XVI, denominando-o como “demônio que acometem os índios”.\n
-    Para os índios e os bandeirantes, o Curupira era considerado uma criatura perigosa, demoníaca, maliciosa, muito temida.\n
-    Isso porque esse personagem esteve associado a muitos casos de violência, abusos sexuais, rapto de crianças e horror psicológico.\n
-    Capaz de enfeitiçar as crianças, o Curupira as raptava e somente depois de sete anos elas eram devolvidas aos pais. Por isso, ele ficou conhecido como o mau espírito, disposto a assombrar as noites dos índios e dos bandeirantes.\n   
-    Fonte: <a href="https://www.todamateria.com.br/curupira/" target="_blank"> Toda Matéria </a>\n`,
+        "description": `O Curupira, conhecido como “demônio da floresta”, assobia e utiliza falsos sinais.
+    Ele reúne muitas histórias que envolvem mistérios inexplicáveis, por exemplo, o desaparecimento de caçadores, bem como o esquecimento dos caminhos
+    Dizem que com seus pés virados para trás, o Curupira engana e confunde as pessoas que danificam seu habitat, por exemplo, os caçadores, madeireiros, lenhadores, etc.
+    Esse personagem folclórico, que adora fumar e beber pinga, não gosta de locais muito habitados e, por esse motivo, prefere viver nas florestas.
+    Uma outra característica e, talvez o ponto fraco do Curupira, é a sua curiosidade. Assim, a lenda adverte que para escapar de suas armadilhas, a pessoa deve fazer um novelo com cipó e esconder bem a ponta.
+    Muito curioso, ele fica entretido com o novelo e a pessoa consegue fugir. Até os dias atuais, para que não sejam incomodados pelo Curupira, muitos caçadores e lenhadores costumam oferecer-lhe pinga e fumo quando chegam à floresta.
+    Qual a origem da lenda do Curupira?
+    Há controvérsias sobre a data de criação da lenda do Curupira. Contudo, o padre jesuíta espanhol José de Anchieta (1534-1597) escreveu sobre o personagem no XVI, denominando-o como “demônio que acometem os índios”.
+    Para os índios e os bandeirantes, o Curupira era considerado uma criatura perigosa, demoníaca, maliciosa, muito temida.
+    Isso porque esse personagem esteve associado a muitos casos de violência, abusos sexuais, rapto de crianças e horror psicológico.
+    Capaz de enfeitiçar as crianças, o Curupira as raptava e somente depois de sete anos elas eram devolvidas aos pais. Por isso, ele ficou conhecido como o mau espírito, disposto a assombrar as noites dos índios e dos bandeirantes.
+    Fonte:Toda Matéria`,
         "slug": "lenda-do-curupira"
     },
     {
         "id": 4,
-        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSADlsAWSx6tzhCyJM4QoBHXca1HrdPcBX1lA&usqp=CAU",
+        "photo": "data:image/jpeg;base64,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",
         "title": "Lenda da Matinta Pereira",
-        "description": `Matinta Pereira (ou Matinta Perera) é uma personagem do folclore brasileiro que possui diversas versões.\n
-De maneira geral, ela é descrita como uma bruxa velha que se transforma durante as noites em um pássaro de mau agouro.\n
-Em algumas versões, Matinta não se transforma à noite, sendo uma velha acompanhada de seu pássaro fiel e agoureiro.\n
-Em outras, ainda, é uma velha que durante à noite se transforma em coruja, representando a alma de algum antepassado.\n\n
-A história da lenda da Matinta Pereira\n
-Matinta Pereira é uma bruxa velha que assombra as casas das redondezas durante à noite, momento em que ela se torna um pássaro, o “Rasga Mortalha”. Assim, o pássaro pousa nos telhados ou nos muros das casas emitindo um assobio alto e estridente para que os moradores deem conta de sua presença.\n
-Matinta costuma aparecer durante a noite ou a madrugada perturbando o sono das pessoas. Nesse momento, um dos moradores da casa dizem em voz alta que oferecerá para ela o tabaco desejado.\n
-Depois de proferida a frase, o pássaro voa dali e vai até outras casas fazer o mesmo. Note que em alguns lugares, as pessoas oferecem outras coisas como comida, bebidas, presentes, etc.\n
-No dia seguinte, com o aspecto de bruxa velha, Matinta vai às casas e recebe o que lhe foi prometido na noite anterior. Se não lhe for entregue, ela amaldiçoa todos os moradores da casa, com doenças ou mesmo com mortes.\n
-A maldição de Matinta pode ser passada para outras pessoas. Assim, quando a velha bruxa já está pronta a morrer, ela indaga outras mulheres perguntando somente “se querem”. Se, portanto, a resposta for positiva, a pessoa carregará essa maldição, passando a ser a Matinta.\n
-Origem da lenda da Matinta Pereira\n\n
-Oriunda da cultura popular do norte do Brasil, essa lenda é muito conhecida na região amazônica e provavelmente surgiu de alguma lenda indígena.\n   
-Alguns consideram que a lenda da Matinta é uma variante da lenda do Saci-pererê, sendo descrita como uma velha de uma perna só, que vaga à noite agourando os lugares e assustando as pessoas.\n
-Seu canto estridente seria associado ao do pássaro Tapera naevia, chamado popularmente de Saci ou Matinta Pereira.\n
-Note que essa metamorfose pela qual passa as lendas do país são frutos da oralidade e das características locais.\n
-Fonte: <a href="https://www.todamateria.com.br/matinta-pereira/" target="_blank"> Toda Matéria </a>\n`,
-        "slug": "lenda-matinta-pereira"
+        "description": `Matinta Pereira (ou Matinta Perera) é uma personagem do folclore brasileiro que possui diversas versões.
+        De maneira geral, ela é descrita como uma bruxa velha que se transforma durante as noites em um pássaro de mau agouro.
+        Em algumas versões, Matinta não se transforma à noite, sendo uma velha acompanhada de seu pássaro fiel e agoureiro.
+        Em outras, ainda, é uma velha que durante à noite se transforma em coruja, representando a alma de algum antepassado.
+        A história da lenda da Matinta Pereira
+        Matinta Pereira é uma bruxa velha que assombra as casas das redondezas durante à noite, momento em que ela se torna um pássaro, o “Rasga Mortalha”. Assim, o pássaro pousa nos telhados ou nos muros das casas emitindo um assobio alto e estridente para que os moradores deem conta de sua presença.
+        Matinta costuma aparecer durante a noite ou a madrugada perturbando o sono das pessoas. Nesse momento, um dos moradores da casa dizem em voz alta que oferecerá para ela o tabaco desejado.
+        Depois de proferida a frase, o pássaro voa dali e vai até outras casas fazer o mesmo. Note que em alguns lugares, as pessoas oferecem outras coisas como comida, bebidas, presentes, etc.
+        No dia seguinte, com o aspecto de bruxa velha, Matinta vai às casas e recebe o que lhe foi prometido na noite anterior. Se não lhe for entregue, ela amaldiçoa todos os moradores da casa, com doenças ou mesmo com mortes.
+        A maldição de Matinta pode ser passada para outras pessoas. Assim, quando a velha bruxa já está pronta a morrer, ela indaga outras mulheres perguntando somente “se querem”. Se, portanto, a resposta for positiva, a pessoa carregará essa maldição, passando a ser a Matinta.
+        Origem da lenda da Matinta Pereira
+        Oriunda da cultura popular do norte do Brasil, essa lenda é muito conhecida na região amazônica e provavelmente surgiu de alguma lenda indígena.
+        Alguns consideram que a lenda da Matinta é uma variante da lenda do Saci-pererê, sendo descrita como uma velha de uma perna só, que vaga à noite agourando os lugares e assustando as pessoas.
+        Seu canto estridente seria associado ao do pássaro Tapera naevia, chamado popularmente de Saci ou Matinta Pereira.
+        Note que essa metamorfose pela qual passa as lendas do país são frutos da oralidade e das características locais.
+        Fonte: Toda Matéria`,
+        "slug": "lenda-da-matinta-perera"
     }
-];
-
-
-let boto = "<code>A Lenda do Boto cor-de-rosa, ou simplesmente a Lenda do Boto, é uma lenda de origem indígena que faz\
-        parte do folclore brasileiro. Ela surge na região amazônica, no Norte do País.\n\
-        Reza a lenda que o boto-cor-de-rosa, animal inteligente e semelhante ao golfinho que vive nas águas\
-        amazônicas, se transforma num jovem belo e elegante nas noites de lua cheia.\n\
-        Normalmente ele aparece nas festividades de junho, nas comemorações dos Santos Populares (Santo\
-        Antônio, São João e São Pedro), as chamadas Festas Juninas.\n\
-        Vem vestido de branco e com um grande chapéu a fim de esconder suas narinas, pois sua transformação\
-        não ocorre totalmente.\n\
-        Dono de um estilo comunicativo, galã e conquistador, o boto escolhe a moça solteira mais bonita da\
-        festa e a leva para o fundo do rio. Lá a engravida e depois a abandona.\n\
-        Na manhã seguinte ele se transforma em boto novamente. Por esse motivo, a Lenda do Boto é utilizada\
-        muitas vezes para justificar uma gravidez fora do casamento.\n\
-        Ademais, costuma-se dizer que “a criança é filho do boto” quando é filho de pai desconhecido.\n\n\
-        Curiosidades sobre a lenda do boto-cor-de-rosa\n\
-        Uma maneira de confirmar se os homens presentes na festa não são o boto é retirando os seus chapéus a\
-        fim de atestarem as identidades.\n\
-        Na cultura popular amazônica acredita-se que a pessoa que comer a carne de boto ficará louca e\
-        enfeitiçada.\n\
-        Com direção de Walter Lima Jr., a Lenda do Boto inspirou o filme “Ele, o Boto” (1987).\n\
-        Fonte: <a href=\"https://www.todamateria.com.br/lenda-do-boto/\" target=\"_blank\"> Toda Matéria </a>\n</code>"
+]
