@@ -1,0 +1,40 @@
+.container-content-bg{
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+    align-items: center;
+}
+.container-content{
+    max-width: 1128px;
+    display: flex;    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content-cover > img{
+    min-width: 500px;
+    max-width: 500px;
+    width: 100%;
+    border: 5px solid rgb(144, 144, 144);
+    border-radius:5px
+}
+.content-title{
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.content-title > header > h1{
+    font-size: 50px;    
+}
+.content-description > p,
+.content-description > h2,
+.content-description > a,
+.content-description > footer > p,
+.content-description > footer > p a
+ {
+    line-height: 1.5;
+    color: rgb(204, 199, 199);
+    margin-bottom: 15px;
+}

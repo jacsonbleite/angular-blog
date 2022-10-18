@@ -1,13 +1,4 @@
-header{    
-    width: 100%;    
-    margin-left: 0;
-    margin-right: 0;
-    box-sizing: border-box;
-    margin-top: 17px;   
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 .container-articles-bg{
     width: 100%;
     height: auto;
@@ -24,12 +15,17 @@ header{
     display: flex;
     flex-direction: row;
     justify-content:space-between;  
-    align-items: center;     
+    align-items:flex-start;     
 }
 .articles-main{
     width: 60%; /*676,8px*/
-    height: auto;          
+    height: auto;   
 }
 .articles-others{
     width: 38%; /*428,64px*/
+    height: 100%!important;        
+    display: flex;    
+    flex-direction: column;
+    align-items: flex-start;
+
 }

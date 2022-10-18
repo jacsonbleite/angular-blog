@@ -6,13 +6,17 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./big-card.component.css', 'big-card.responsive.component.css']
 })
 export class BigCardComponent implements OnInit {
-  
+ 
+  @Input()
+  id!:string
   @Input()
   photoCover:string = ""
   @Input()
   cardTitle:string = ""
   @Input()
-  cardDescription:string = ""
+  cardDescription:string = "" 
+  @Input()
+  slug: string = ""
 
   constructor() { }
 
