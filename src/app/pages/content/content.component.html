@@ -9,10 +9,10 @@
                     <h1>{{contentTitle}}</h1>
                 </header>
             </div>
-            <div class="content-description">
-                <p><a [routerLink]="['']">&lAarr; Voltar</a></p>            
-                {{contentDescription}}
-            </div>
+            <article class="content-description">
+                <p><a [routerLink]="['']">&lAarr; Voltar</a> <br></p>                
+                <div class="textContent" [innerHtml]="contentDescription"></div>
+            </article>
         </div>
     </div>
 </article>

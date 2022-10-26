@@ -1,3 +1,4 @@
+import { HtmlParser } from '@angular/compiler';
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { dataFake } from 'src/app/data/dataFake';
@@ -36,7 +37,7 @@ export class ContentComponent implements OnInit {
     // console.log(result)
     this.id = result[0].id
     this.contentTitle = result[0].title
-    this.contentDescription = result[0].description.replace(/(\r\n|\r|\n)/g, '\n')
+    this.contentDescription = result[0].description
     this.photoCover = result[0].photo
     this.slug = result[0].slug
   }

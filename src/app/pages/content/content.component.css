@@ -29,18 +29,20 @@
     font-size: 50px;    
 }
 .content-description,
-.content-description > p,
-.content-description > h2,
-.content-description > a,
-.content-description > footer > p,
-.content-description > footer > p a
+.content-description > .textContent > p,
+.content-description > .textContent > h2,
+.content-description > .textContent > a,
+.content-description > .textContent > footer,
+.content-description > .textContent > footer
  {
     line-height: 1.7;
     color: rgb(204, 199, 199);
     margin-bottom: 15px;
     
 }
+
 .content-description,
 .content-description > p{
+    text-indent:3em;
     white-space: break-spaces    
 }
