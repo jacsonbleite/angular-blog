@@ -3,19 +3,16 @@ export const dataFake = [
         "id": 1,
         "photo": "https://static.todamateria.com.br/upload/le/nd/lenda-do-boto-og.jpg",
         "title": "Lenda do Boto-cor-de-rosa",
-        "description": `<b>A Lenda do Boto cor-de-rosa</b>, ou simplesmente a Lenda do Boto, é uma lenda de origem indígena que faz
-        parte do folclore brasileiro. Ela surge na região amazônica, no Norte do País.
-        Reza a lenda que o boto-cor-de-rosa, animal inteligente e semelhante ao golfinho que vive nas águas amazônicas, se transforma num jovem belo e elegante nas noites de lua cheia.\n
-        Normalmente ele aparece nas festividades de junho, nas comemorações dos Santos Populares (Santo Antônio, São João e São Pedro), as chamadas Festas Juninas.
-        Vem vestido de branco e com um grande chapéu a fim de esconder suas narinas, pois sua transformação não ocorre totalmente.
-        Dono de um estilo comunicativo, galã e conquistador, o boto escolhe a moça solteira mais bonita da festa e a leva para o fundo do rio. Lá a engravida e depois a abandona.
-        Na manhã seguinte ele se transforma em boto novamente. Por esse motivo, a Lenda do Boto é utilizada muitas vezes para justificar uma gravidez fora do casamento.
-        Ademais, costuma-se dizer que “a criança é filho do boto” quando é filho de pai desconhecido.
+        "description": `        A Lenda do Boto cor-de-rosa, ou simplesmente a Lenda do Boto, é uma lenda de origem indígena que faz parte do folclore brasileiro. Ela surge na região amazônica, no Norte do País. Reza a lenda que o boto-cor-de-rosa, animal inteligente e semelhante ao golfinho que vive nas águas amazônicas, se transforma num jovem belo e elegante nas noites de lua cheia.
+        Normalmente ele aparece nas festividades de junho, nas comemorações dos Santos Populares (Santo Antônio, São João e São Pedro), as chamadas Festas Juninas. Vem vestido de branco e com um grande chapéu a fim de esconder suas narinas, pois sua transformação não ocorre totalmente. Dono de um estilo comunicativo, galã e conquistador, o boto escolhe a moça solteira mais bonita da festa e a leva para o fundo do rio. Lá a engravida e depois a abandona.
+        Na manhã seguinte ele se transforma em boto novamente. Por esse motivo, a Lenda do Boto é utilizada muitas vezes para justificar uma gravidez fora do casamento. Ademais, costuma-se dizer que “a criança é filho do boto” quando é filho de pai desconhecido.
+
+
         Curiosidades sobre a lenda do boto-cor-de-rosa:
-        Uma maneira de confirmar se os homens presentes na festa não são o boto é retirando os seus chapéus a fim de atestarem as identidades.
-        Na cultura popular amazônica acredita-se que a pessoa que comer a carne de boto ficará louca e enfeitiçada.
-        Com direção de Walter Lima Jr., a Lenda do Boto inspirou o filme “Ele, o Boto” (1987).
-        Fonte: Toda Matéria`,
+
+        Uma maneira de confirmar se os homens presentes na festa não são o boto é retirando os seus chapéus a fim de atestarem as identidades. Na cultura popular amazônica acredita-se que a pessoa que comer a carne de boto ficará louca e enfeitiçada. Com direção de Walter Lima Jr., a Lenda do Boto inspirou o filme “Ele, o Boto” (1987).
+        Fonte: Toda Matéria
+        `,
         "slug": "lenda-do-boto-cor-de-rosa"
     },
     {

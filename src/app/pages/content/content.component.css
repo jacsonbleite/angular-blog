@@ -28,17 +28,19 @@
 .content-title > header > h1{
     font-size: 50px;    
 }
+.content-description,
 .content-description > p,
 .content-description > h2,
 .content-description > a,
 .content-description > footer > p,
 .content-description > footer > p a
  {
-    line-height: 1.5;
+    line-height: 1.7;
     color: rgb(204, 199, 199);
     margin-bottom: 15px;
     
 }
+.content-description,
 .content-description > p{
-    white-space: break-spaces
+    white-space: break-spaces    
 }
